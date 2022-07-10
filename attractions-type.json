@@ -1,0 +1,36 @@
+{
+    "values": [
+        {
+          "id": "attraction_1",
+          "name": {
+            "value": "Big Thunder Mountain Railroad",
+            "synonyms": [
+              "Big Thunder",
+              "mine train",
+              "Big Thunder Mountain"
+            ]
+          }
+        },
+        {
+          "id": "attraction_2",
+          "name": {
+            "value": "Jungle Cruise",
+            "synonyms": [
+              "jungle boats",
+              "river cruise",
+              "jungle river"
+            ]
+          }
+        },
+        {
+          "id": "attraction_3",
+          "name": {
+            "value": "Haunted Mansion",
+            "synonyms": [
+              "haunted house",
+              "ghost house"
+            ]
+          }
+        }
+      ]
+}
