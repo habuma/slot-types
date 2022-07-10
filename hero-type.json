@@ -1,0 +1,71 @@
+{
+    "values": [
+        {
+          "id": "HERO_1",
+          "name": {
+            "value": "Iron Man",
+            "synonyms": [
+              "Tony Stark",
+              "chrome dome"
+            ]
+          }
+        },
+        {
+          "id": "HERO_2",
+          "name": {
+            "value": "Captain America",
+            "synonyms": [
+              "Steve Rogers",
+              "the first Avenger",
+              "star spangled man with a plan"
+            ]
+          }
+        },
+        {
+          "id": "HERO_3",
+          "name": {
+            "value": "Spider-Man",
+            "synonyms": [
+              "webslinger",
+              "Peter Parker"
+            ]
+          }
+        },
+        {
+            "id": "HERO_4",
+            "name": {
+              "value": "Captain Marvel",
+              "synonyms": [
+                "Carol Danvers"
+              ]
+            }
+        },
+        {
+            "id": "HERO_5",
+            "name": {
+              "value": "Ms. Marvel",
+              "synonyms": [
+                "Kamala Khan"
+              ]
+            }
+        },
+        {
+            "id": "HERO_6",
+            "name": {
+              "value": "Mighty Thor",
+              "synonyms": [
+                "Jane Foster"
+              ]
+            }
+        },
+        {
+          "id": "HERO_7",
+          "name": {
+            "value": "Rocket",
+            "synonyms": [
+              "trash panda"
+            ]
+          }
+      }
+    ]
+  }
