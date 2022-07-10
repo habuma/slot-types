@@ -66,6 +66,44 @@
               "trash panda"
             ]
           }
-      }
+        },
+        {
+          "id": "HERO_8",
+          "name": {
+            "value": "Star Lord",
+            "synonyms": [
+              "Peter Quill"
+            ]
+          }
+        },
+        {
+          "id": "HERO_9",
+          "name": {
+            "value": "Hulk",
+            "synonyms": [
+              "Bruce Banner"
+            ]
+          }
+        },
+        {
+          "id": "HERO_10",
+          "name": {
+            "value": "Black Panther",
+            "synonyms": [
+              "T'Chala"
+            ]
+          }
+        },
+        {
+          "id": "HERO_11",
+          "name": {
+            "value": "Black Widow",
+            "synonyms": [
+              "Natasha Romanoff",
+              "Romanoff",
+              "Natasha"
+            ]
+          }
+        }
     ]
   }
