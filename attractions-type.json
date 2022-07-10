@@ -6,7 +6,6 @@
             "value": "Big Thunder Mountain Railroad",
             "synonyms": [
               "Big Thunder",
-              "mine train",
               "Big Thunder Mountain"
             ]
           }
@@ -31,6 +30,27 @@
               "ghost house"
             ]
           }
+        },
+        {
+            "id": "attraction_4",
+            "name": {
+              "value": "Pirates of the Caribbean",
+              "synonyms": [
+                "pirates",
+                "caribbean pirates",
+                "the jack sparrow ride"
+              ]
+            }
+        },
+        {
+            "id": "attraction_5",
+            "name": {
+              "value": "Seven Dwarfs Mine Train",
+              "synonyms": [
+                "mine train",
+                "seven dwards"
+              ]
+            }
         }
       ]
 }
